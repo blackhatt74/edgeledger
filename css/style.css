@@ -301,22 +301,22 @@ form{
 .n{
  margin: 0.5rem;
  height: 2rem;
- width: 70%;
+ width: 100%;
 }
 .m{
     margin: 0.5rem;
     height: 3rem;
-    width: 70%;
+    width: 100%;
 }
 .nu{
     margin: 0.5rem;
     height: 2rem;
-    width: 70%;
+    width: 100%;
 }
 .e{
     height: 2rem;
     margin: 0.5rem;
-    width: 70%;
+    width: 100%;
 }
 #submit{
     height: 3rem;
